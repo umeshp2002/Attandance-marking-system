@@ -7,7 +7,7 @@ import face_recognition
 
 
 
-path = 'ImagesAttendance'
+path = 'Training Images'
 images = []
 classNames = []
 myList = os.listdir(path)
